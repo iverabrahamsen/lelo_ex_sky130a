@@ -4,14 +4,6 @@ K {}
 V {}
 S {}
 E {}
-T {Shift-I          Insert new component
-Shift-Z         Zoom in
-Ctrl-Z           Zoom out
-R                 Rotate
-F                 Full view
-
-Manual: https://xschem.sourceforge.io/stefan/xschem_man/xschem_man.pdf
-} 0 -1000 0 0 0.6 0.6 {}
 N 70 -530 540 -530 {lab=VSS}
 N 190 -590 230 -590 {lab=VSS}
 N 420 -590 460 -590 {lab=VSS}
