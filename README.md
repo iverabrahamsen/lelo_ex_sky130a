@@ -4,12 +4,12 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-ivera
+Iver Abrahamsen
 
 # Why
 
 This module implements a simple 1‑to‑4 CMOS current mirror.
-It is used as an introductory block to learn the Sky130A PDK,  
+It is used as an introductory block to learn the Sky130A PDK, 
 XSchem schematic entry, ngspice simulation, and Magic layout.
 
 # How
