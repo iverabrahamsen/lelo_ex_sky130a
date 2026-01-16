@@ -14,7 +14,7 @@ XSchem schematic entry, ngspice simulation, and Magic layout.
 
 # How
 
-Followed a tutorial by Carsten Wullf from the course TFE4188 Advanced Integrated Circuits.
+Followed a tutorial by Carsten Wulff from the course TFE4188 Advanced Integrated Circuits.
 
 
 # What
