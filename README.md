@@ -8,8 +8,9 @@ ivera
 
 # Why
 
-<explain why you made this module>
-
+This module implements a simple 1‑to‑4 CMOS current mirror.  m
+It is used as an introductory block to learn the Sky130A PDK,  
+XSchem schematic entry, ngspice simulation, and Magic layout.
 # How
 
 <explain short how you made this module>
